@@ -1,0 +1,5 @@
+LIBRARY procmonitor
+EXPORTS
+    GetProcessInfo
+    SaveProcessInfo
+	GetMaxNFreeRegionInfo
